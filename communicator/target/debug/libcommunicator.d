@@ -1,0 +1,1 @@
+D:\github\rust_test3\communicator\target\debug\libcommunicator.rlib: D:\github\rust_test3\communicator\src\client.rs D:\github\rust_test3\communicator\src\lib.rs D:\github\rust_test3\communicator\src\network\mod.rs D:\github\rust_test3\communicator\src\network\server.rs
